@@ -1,0 +1,10 @@
+{
+  "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "rotorL":   "ESOVPZJAYQUIRHXLNFTGKDCMWB",
+  "rotorM":   "BDFHJLCPRTXVZNYEIWGAKMUSQO",
+  "rotorR":   "AJDKSIRUXBLHWTMCQGZNPYFVOE",
+  "reflector": "AR-BD-CO-EJ-FN-GT-HK-IV-LM-PW-QZ-SX-UY-",
+  "Ri": "4",
+  "Mi": "0",
+  "Li": "0"
+}
